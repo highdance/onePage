@@ -1,7 +1,27 @@
-.list-ul {
-	padding-left: 5%;
+.list-ul, .list-ul-num {
+	padding-left: 10%;
 }
 
 .list-ul li {
 	list-style-type: circle;
+}
+
+.list-ul-num li {
+	list-style-type: decimal;
+}
+
+.list-important, .questions-title {
+	color: #ee6e73;
+}
+
+.flow-text {
+	font-size: 1.20rem;
+}
+
+.internal-divider {
+	margin: 7% 0;
+}
+
+.questions-title {
+    text-transform: uppercase;
 }
