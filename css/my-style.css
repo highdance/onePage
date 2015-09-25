@@ -1,0 +1,7 @@
+.list-ul {
+	padding-left: 5%;
+}
+
+.list-ul li {
+	list-style-type: circle;
+}
